@@ -1,3 +1,5 @@
+# Please switch to beta.mcapi.de to use the latest version (>=3.0+). The current version (<3.0) will be deprecated this year (2018). The support and offline-date for the current version will end at the end of this year.
+
 ## McAPI
 
 McAPI is one of the fastest Minecraft related API's on the web ([benchmarks](https://github.com/McAPI/Benchmarks)). The service provides tons of information from all important Parts of the Minecraft community. McAPI runs on efficient servers with the use of the latest technologies in high-end data centers to always provide the data for all projects around the world.
